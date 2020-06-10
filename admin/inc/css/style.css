@@ -1,0 +1,6 @@
+#button_disconnect{
+    position: absolute;
+    right: 20px;
+    top: 14px;
+    cursor:pointer;
+}
